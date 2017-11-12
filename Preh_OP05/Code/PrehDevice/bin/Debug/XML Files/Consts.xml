@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Constants>
+  <Table>
+    <ID_Const>1</ID_Const>
+    <ID_SubWS>8</ID_SubWS>
+    <ConstName>Calibration_MinForce</ConstName>
+    <ConstValue>3</ConstValue>
+    <ConstDescription>TCylinder Test - Min Force</ConstDescription>
+  </Table>
+  <Table>
+    <ID_Const>2</ID_Const>
+    <ID_SubWS>8</ID_SubWS>
+    <ConstName>Cylinder Test - Min Force</ConstName>
+    <ConstValue>5</ConstValue>
+    <ConstDescription>Cylinder Test - Max Force</ConstDescription>
+  </Table>
+  <Table>
+    <ID_Const>3</ID_Const>
+    <ID_SubWS>8</ID_SubWS>
+    <ConstName>Calibration_Tolerance</ConstName>
+    <ConstValue>0.5</ConstValue>
+    <ConstDescription>Cylinder Test - Tolerance</ConstDescription>
+  </Table>
+  <Table>
+    <ID_Const>4</ID_Const>
+    <ID_SubWS>8</ID_SubWS>
+    <ConstName>PropValve_m</ConstName>
+    <ConstValue>0.397</ConstValue>
+    <ConstDescription>Proporcional Valve (m)</ConstDescription>
+  </Table>
+  <Table>
+    <ID_Const>5</ID_Const>
+    <ID_SubWS>8</ID_SubWS>
+    <ConstName>PropValve_b</ConstName>
+    <ConstValue>0.965</ConstValue>
+    <ConstDescription>Proporcional Valve (b)</ConstDescription>
+  </Table>
+  <Table>
+    <ID_Const>6</ID_Const>
+    <ID_SubWS>8</ID_SubWS>
+    <ConstName>ALL</ConstName>
+    <ConstValue>0.2</ConstValue>
+    <ConstDescription>Proporcional Valve Tolerance</ConstDescription>
+  </Table>
+  <Table>
+    <ID_Const>7</ID_Const>
+    <ID_SubWS>8</ID_SubWS>
+    <ConstName>NewtonToVoltage_m</ConstName>
+    <ConstValue>1.392</ConstValue>
+    <ConstDescription>Proporcional Valve - Conversion Newton to Voltage (m)</ConstDescription>
+  </Table>
+  <Table>
+    <ID_Const>8</ID_Const>
+    <ID_SubWS>8</ID_SubWS>
+    <ConstName>NewtonToVoltage_b</ConstName>
+    <ConstValue>0.127</ConstValue>
+    <ConstDescription>Proporcional Valve - Conversion Newton to Voltage (b)</ConstDescription>
+  </Table>
+  <Table>
+    <ID_Const>9</ID_Const>
+    <ID_SubWS>8</ID_SubWS>
+    <ConstName>LoadCell_Calib_m</ConstName>
+    <ConstValue>0.985</ConstValue>
+    <ConstDescription>HBM Load Cell (m)</ConstDescription>
+  </Table>
+  <Table>
+    <ID_Const>10</ID_Const>
+    <ID_SubWS>8</ID_SubWS>
+    <ConstName>LoadCell_Calib_b</ConstName>
+    <ConstValue>0.01</ConstValue>
+    <ConstDescription>HBM Load Cell (b)</ConstDescription>
+  </Table>
+  <Table>
+    <ID_Const>11</ID_Const>
+    <ID_SubWS>8</ID_SubWS>
+    <ConstName>HBM_m_Tol</ConstName>
+    <ConstValue>0.05</ConstValue>
+    <ConstDescription>HBM Load Cell m tolerance</ConstDescription>
+  </Table>
+  <Table>
+    <ID_Const>12</ID_Const>
+    <ID_SubWS>8</ID_SubWS>
+    <ConstName>HBM_b_Tol</ConstName>
+    <ConstValue>0.2</ConstValue>
+    <ConstDescription>HBM Load Cell b Tolerance</ConstDescription>
+  </Table>
+  <Table>
+    <ID_Const>13</ID_Const>
+    <ID_SubWS>8</ID_SubWS>
+    <ConstName>SaveMeasures</ConstName>
+    <ConstValue>1</ConstValue>
+    <ConstDescription>Save Measures (0 Disable / 1 Enable)</ConstDescription>
+  </Table>
+  <Table>
+    <ID_Const>14</ID_Const>
+    <ID_SubWS>8</ID_SubWS>
+    <ConstName>ShowMeasures</ConstName>
+    <ConstValue>1</ConstValue>
+    <ConstDescription>Show Measures (0 Disable / 1 Enable)</ConstDescription>
+  </Table>
+  <Table>
+    <ID_Const>15</ID_Const>
+    <ID_SubWS>0</ID_SubWS>
+    <ConstName>UseAutomaticCfg</ConstName>
+    <ConstValue>1</ConstValue>
+    <ConstDescription>Automatic Config Files (0 Disable / 1 Enable)</ConstDescription>
+  </Table>
+</Constants>

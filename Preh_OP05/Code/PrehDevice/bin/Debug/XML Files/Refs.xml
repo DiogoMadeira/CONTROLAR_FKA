@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <IDRef>1</IDRef>
+    <RefPreh>LH</RefPreh>
+    <Active>true</Active>
+    <RefDescription>Blenda Ford B479 RH</RefDescription>
+    <RefShortType>Blenda L</RefShortType>
+    <ExtraCode></ExtraCode>
+    <IDRefSeqGroup>1</IDRefSeqGroup>
+    <IDRefProfile>1</IDRefProfile>
+    <ParameterProfile>LH</ParameterProfile>
+  </Table>
+  <Table>
+    <IDRef>2</IDRef>
+    <RefPreh>RH</RefPreh>
+    <Active>true</Active>
+    <RefDescription>Blenda Ford B479 LH</RefDescription>
+    <RefShortType>Blenda R</RefShortType>
+    <ExtraCode></ExtraCode>
+    <IDRefSeqGroup>2</IDRefSeqGroup>
+    <IDRefProfile>2</IDRefProfile>
+    <ParameterProfile>RH</ParameterProfile>
+  </Table>
+</NewDataSet>
